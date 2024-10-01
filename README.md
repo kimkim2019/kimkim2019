@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi there 👋
+- 😊 I'm Kim Nguyen
+- 🔭 I’m currently working on fiver and upwork
+- 🌱 I’m currently learning 
+- 🔥🔥🔥🔥 WORKING HARD 🔥🔥🔥🔥
+ 
+- - - - ---
+🔗🔗🔗🔗CONTACT 🔗🔗🔗🔗
+<br>
+<br>
+<br>
+<img width="20" alt="Instagram icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png?20200512141346">
+<a title="Instagram" href="https://www.instagram.com/kn_kimkim/" style="">  kn_kimkim </a>
+  
 
-<!--
-**kimkim2019/kimkim2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
